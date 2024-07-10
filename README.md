@@ -12,7 +12,7 @@ To use `choco_lints` in your project, follow these steps:
 dev_dependencies:
   choco_lints:
     git:
-      url: git@github.com:charlescyt/choco_lints.git
+      url: https://github.com/charlescyt/choco_lints.git
       ref: 1.2.0 # specify version here
 ```
 
