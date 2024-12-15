@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.4.0 - 2024-12-15
+
+- Bump minimum Dart version to 3.6.0.
+- Add [`avoid_futureor_void`].
+- Add [`omit_obvious_local_variable_types`].
+- Add [`use_truncating_division`].
+- Remove [`unsafe_html`] (Deprecated and will be removed in a future release).
+
+[`avoid_futureor_void`]: https://dart.dev/lints/avoid_futureor_void
+[`omit_obvious_local_variable_types`]: https://dart.dev/lints/omit_obvious_local_variable_types
+[`use_truncating_division`]: https://dart.dev/lints/use_truncating_division
+[`unsafe_html`]: https://dart.dev/lints/unsafe_html
+
 ## 1.3.0 - 2024-12-15
 
 - Bump minimum Dart version to 3.5.0.
