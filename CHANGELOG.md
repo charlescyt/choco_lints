@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.3.0 - 2024-12-15
+
+- Bump minimum Dart version to 3.5.0.
+- Add [`document_ignores`].
+- Add [`invalid_runtime_check_with_js_interop_types`].
+- Add [`unintended_html_in_doc_comment`].
+
+[`document_ignores`]: https://dart.dev/lints/document_ignores
+[`invalid_runtime_check_with_js_interop_types`]: https://dart.dev/lints/invalid_runtime_check_with_js_interop_types
+[`unintended_html_in_doc_comment`]: https://dart.dev/lints/unintended_html_in_doc_comment
+
 ## 1.2.0 - 2024-07-04
 
 - Bump minimum Dart version to 3.4.0.
