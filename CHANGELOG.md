@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.5.0 - 2025-02-14
+
+- Bump minimum Dart version to 3.7.0.
+- Add ['strict_top_level_inference].
+- Add ['unnecessary_async'].
+- Add ['unnecessary_underscores'].
+- Remove ['package_api_docs'].
+
+[`strict_top_level_inference`]: https://dart.dev/lints/strict_top_level_inference
+[`unnecessary_async`]: https://dart.dev/lints/unnecessary_async
+[`unnecessary_underscores`]: https://dart.dev/lints/unnecessary_underscores
+[`package_api_docs`]: https://dart.dev/lints/package_api_docs
+
 ## 1.4.0 - 2024-12-15
 
 - Bump minimum Dart version to 3.6.0.
