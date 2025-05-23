@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.6.0 - 2025-05-23
+
+- Bump minimum Dart version to 3.8.0.
+- Add [`use_null_aware_elements`].
+- Add [`unnecessary_ignore`].
+
+[`use_null_aware_elements`]: https://dart.dev/lints/use_null_aware_elements
+[`unnecessary_ignore`]: https://dart.dev/lints/unnecessary_ignore
+
 ## 1.5.0 - 2025-02-14
 
 - Bump minimum Dart version to 3.7.0.
