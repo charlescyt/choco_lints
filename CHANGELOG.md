@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.7.0 - 2025-08-15
+
+- Bump minimum Dart version to 3.9.0.
+- Add [switch_on_type].
+- Add [unnecessary_unawaited].
+
+[switch_on_type]: https://dart.dev/lints/switch_on_type
+[unnecessary_unawaited]: https://dart.dev/lints/unnecessary_unawaited
+
 ## 1.6.0 - 2025-05-23
 
 - Bump minimum Dart version to 3.8.0.
