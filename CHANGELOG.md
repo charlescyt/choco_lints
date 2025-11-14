@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.8.0 - 2025-11-14
+
+- Bump minimum Dart version to 3.10.0.
+- Remove errors and exclude sections.
+- Add [remove_deprecations_in_breaking_versions] for package.yaml.
+
+[remove_deprecations_in_breaking_versions]: https://dart.dev/lints/remove_deprecations_in_breaking_versions
+
 ## 1.7.0 - 2025-08-15
 
 - Bump minimum Dart version to 3.9.0.

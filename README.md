@@ -13,7 +13,7 @@ dev_dependencies:
   choco_lints:
     git:
       url: https://github.com/charlescyt/choco_lints.git
-      ref: v1.7.0 # specify version here
+      ref: v1.8.0 # specify version here
 ```
 
 2. Include `choco_lints/app.yaml` or `choco_lints/package.yaml` in your `analysis_options.yaml` file:
