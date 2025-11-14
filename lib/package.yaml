@@ -4,3 +4,4 @@ linter:
   rules:
     - diagnostic_describe_all_properties
     - public_member_api_docs
+    - remove_deprecations_in_breaking_versions
