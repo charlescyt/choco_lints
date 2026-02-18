@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.9.0 - 2026-02-19
+
+- Bump minimum Dart version to 3.11.0.
+- Add [simplify_variable_pattern].
+- Remove deprecated lints
+  - [avoid_null_checks_in_equality_operators]
+  - [prefer_final_parameters]
+  - [use_if_null_to_convert_nulls_to_bools]
+
+[simplify_variable_pattern]: https://dart.dev/lints/simplify_variable_pattern
+[avoid_null_checks_in_equality_operators]: https://dart.dev/lints/avoid_null_checks_in_equality_operators
+[prefer_final_parameters]: https://dart.dev/lints/prefer_final_parameters
+[use_if_null_to_convert_nulls_to_bools]: https://dart.dev/lints/use_if_null_to_convert_nulls_to_bools
+
 ## 1.8.0 - 2025-11-14
 
 - Bump minimum Dart version to 3.10.0.
