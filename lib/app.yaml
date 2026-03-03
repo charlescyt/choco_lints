@@ -241,4 +241,3 @@ linter:
     - use_truncating_division
     - valid_regexps
     - void_checks
-    - non_nullable_equals_parameter

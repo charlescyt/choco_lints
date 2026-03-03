@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.9.1 - 2026-03-03
+
+- Remove non-existing lint non_nullable_equals_parameter.
+
 ## 1.9.0 - 2026-02-19
 
 - Bump minimum Dart version to 3.11.0.
