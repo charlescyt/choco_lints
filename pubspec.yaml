@@ -1,7 +1,7 @@
 name: choco_lints
 description: A custom set of lints for Dart and Flutter projects.
-version: 1.9.1
+version: 1.10.0
 repository: https://github.com/charlescyt/choco_lints
 
 environment:
-  sdk: ^3.11.0
+  sdk: ^3.12.0

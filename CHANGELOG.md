@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.10.0 - 2026-05-21
+
+- Bump minimum Dart version to 3.12.0.
+- Add [simple_directive_paths].
+- Add [var_with_no_type_annotation].
+
+[simple_directive_paths]: https://dart.dev/lints/simple_directive_paths
+[var_with_no_type_annotation]: https://dart.dev/lints/var_with_no_type_annotation
+
 ## 1.9.1 - 2026-03-03
 
 - Remove non-existing lint non_nullable_equals_parameter.
