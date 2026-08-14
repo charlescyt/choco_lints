@@ -1,5 +1,36 @@
 # Changelog
 
+## 1.11.0 - 2026-08-14
+
+- Bump minimum Dart version to 3.13.0.
+- Add [async_return_with_no_await].
+- Add [empty_container_bodies].
+- Add [initialize_in_field_declaration].
+- Add [migrate_design_widgets].
+- Add [unnecessary_const_in_enum_constructor].
+- Add [unnecessary_primary_constructor_body].
+- Add [unnecessary_type_name_in_constructor].
+- Add [use_declaring_parameters].
+- Remove `strict-casts` in favour of [no_dynamic_casts].
+- Remove `strict-raw-types` in favour of [no_raw_types].
+- Remove deprecated [avoid_private_typedef_functions].
+- Remove deprecated [one_member_abstracts].
+- Remove deprecated [unnecessary_await_in_return].
+
+[async_return_with_no_await]: https://dart.dev/lints/async_return_with_no_await
+[empty_container_bodies]: https://dart.dev/lints/empty_container_bodies
+[initialize_in_field_declaration]: https://dart.dev/lints/initialize_in_field_declaration
+[migrate_design_widgets]: https://dart.dev/lints/migrate_design_widgets
+[unnecessary_const_in_enum_constructor]: https://dart.dev/lints/unnecessary_const_in_enum_constructor
+[unnecessary_primary_constructor_body]: https://dart.dev/lints/unnecessary_primary_constructor_body
+[unnecessary_type_name_in_constructor]: https://dart.dev/lints/unnecessary_type_name_in_constructor
+[use_declaring_parameters]: https://dart.dev/lints/use_declaring_parameters
+[no_dynamic_casts]: https://dart.dev/lints/no_dynamic_casts
+[no_raw_types]: https://dart.dev/lints/no_raw_types
+[avoid_private_typedef_functions]: https://dart.dev/lints/avoid_private_typedef_functions
+[one_member_abstracts]: https://dart.dev/lints/one_member_abstracts
+[unnecessary_await_in_return]: https://dart.dev/lints/unnecessary_await_in_return
+
 ## 1.10.0 - 2026-05-21
 
 - Bump minimum Dart version to 3.12.0.
