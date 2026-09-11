@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.12.0] - 2026-09-11
+
+### Removed
+
+- Remove deprecated [`unnecessary_await_in_return`].
+
 ## [1.11.0] - 2026-08-14
 
 ### Added
@@ -168,7 +174,8 @@
 
 - Initial release.
 
-[unreleased]: https://github.com/charlescyt/choco_lints/compare/v1.11.0...HEAD
+[unreleased]: https://github.com/charlescyt/choco_lints/compare/v1.12.0...HEAD
+[1.12.0]: https://github.com/charlescyt/choco_lints/compare/v1.11.0...v1.12.0
 [1.11.0]: https://github.com/charlescyt/choco_lints/compare/v1.10.0...v1.11.0
 [1.10.0]: https://github.com/charlescyt/choco_lints/compare/v1.9.1...v1.10.0
 [1.9.1]: https://github.com/charlescyt/choco_lints/compare/v1.9.0...v1.9.1
